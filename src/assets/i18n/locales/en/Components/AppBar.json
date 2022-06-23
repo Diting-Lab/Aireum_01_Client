@@ -1,0 +1,19 @@
+{
+  "tabs": {
+    "home": "Home",
+    "discover": "Discover",
+    "subscriptions": "Subscriptions"
+  },
+  "menuItems": {
+    "profile": "Profile",
+    "myAccount": "My account",
+    "logOut": "Log out",
+    "messages": "Messages",
+    "notifications": "Notifications",
+    "settings": "Settings",
+    "myPage": "My Page"
+  },
+  "searchBar": {
+    "placeholder": "Search..."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "home": "Home",
+  "discover": "Discover",
+  "welcome": "Welcome, {{username}}",
+  "this-is-content-page": "This is <strong>content page</strong>"
+}

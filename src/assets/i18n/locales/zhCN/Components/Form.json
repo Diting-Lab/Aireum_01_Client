@@ -1,0 +1,79 @@
+{
+  "textField": {
+    "username": {
+      "label": "用户名",
+      "hint": "",
+      "placeholder": "用户名..."
+    },
+    "password": {
+      "label": "密码",
+      "hint": "",
+      "placeholder": "密码..."
+    },
+    "oldPassword": {
+      "label": "原密码",
+      "hint": "",
+      "placeholder": "原密码..."
+    },
+    "newPassword": {
+      "label": "新密码",
+      "hint": "",
+      "placeholder": "新密码..."
+    },
+    "confirmNewPassword": {
+      "label": "确认新密码",
+      "hint": "",
+      "placeholder": "确认新密码..."
+    },
+    "email": {
+      "label": "邮箱",
+      "hint": "",
+      "placeholder": "邮箱..."
+    },
+    "provider": {
+      "label": "提供商",
+      "hint": "",
+      "placeholder": "提供商..."
+    },
+    "uid": {
+      "label": "id身份",
+      "hint": "",
+      "placeholder": "id身份..."
+    },
+    "phone": {
+      "label": "电话",
+      "hint": "",
+      "placeholder": "电话..."
+    },
+    "gender": {
+      "label": "性别",
+      "hint": "",
+      "placeholder": "性别..."
+    },
+    "bio": {
+      "label": "简介",
+      "hint": "",
+      "placeholder": "简介..."
+    },
+    "birthDate": {
+      "label": "出生日期",
+      "hint": "",
+      "placeholder": "出生日期..."
+    }
+  },
+
+  "buttons": {
+    "signin": "登陆",
+    "submit": "提交",
+    "signup": "注册"
+  },
+  "guide": {
+    "edit": "编辑",
+    "forgotPassword": "忘记密码？",
+    "noAccountSignup": "没有账号？请注册",
+    "haveAccountSignin": "已有账号？请登陆",
+    "signin": "登陆",
+    "signup": "注册",
+    "rememberMe": "记住密码"
+  }
+}

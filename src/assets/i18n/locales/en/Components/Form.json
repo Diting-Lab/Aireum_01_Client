@@ -1,0 +1,79 @@
+{
+  "textField": {
+    "username": {
+      "label": "username",
+      "hint": "",
+      "placeholder": "username..."
+    },
+    "password": {
+      "label": "password",
+      "hint": "",
+      "placeholder": "password..."
+    },
+    "oldPassword": {
+      "label": "old password",
+      "hint": "",
+      "placeholder": "old password..."
+    },
+    "newPassword": {
+      "label": "new password",
+      "hint": "",
+      "placeholder": "new password..."
+    },
+    "confirmNewPassword": {
+      "label": "confirm new password",
+      "hint": "",
+      "placeholder": "confirm new password..."
+    },
+    "email": {
+      "label": "email",
+      "hint": "",
+      "placeholder": "email..."
+    },
+    "provider": {
+      "label": "provider",
+      "hint": "",
+      "placeholder": "provider..."
+    },
+    "uid": {
+      "label": "uid",
+      "hint": "",
+      "placeholder": "uid..."
+    },
+    "phone": {
+      "label": "phone",
+      "hint": "",
+      "placeholder": "phone..."
+    },
+    "gender": {
+      "label": "gender",
+      "hint": "",
+      "placeholder": "gender..."
+    },
+    "bio": {
+      "label": "bio",
+      "hint": "",
+      "placeholder": "bio..."
+    },
+    "birthDate": {
+      "label": "birthDate",
+      "hint": "",
+      "placeholder": "birthDate..."
+    }
+  },
+
+  "buttons": {
+    "signin": "Sign in",
+    "submit": "Submit",
+    "signup": "Sign up"
+  },
+  "guide": {
+    "edit": "Edit",
+    "forgotPassword": "Forgot password?",
+    "noAccountSignup": "Don/'t have an account? Sign Up",
+    "haveAccountSignin": "Already have an account? Sign In",
+    "signin": "Sign in",
+    "signup": "Sign up",
+    "rememberMe": "Remember me"
+  }
+}

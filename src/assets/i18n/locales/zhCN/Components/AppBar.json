@@ -1,0 +1,19 @@
+{
+  "tabs": {
+    "home": "主页",
+    "discover": "探索",
+    "subscriptions": "订阅"
+  },
+  "menuItems": {
+    "profile": "档案",
+    "myAccount": "我的账号",
+    "logOut": "退出",
+    "messages": "消息",
+    "notifications": "通知",
+    "settings": "设置",
+    "myPage": "我的主页"
+  },
+  "searchBar": {
+    "placeholder": "搜索..."
+  }
+}
