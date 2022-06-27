@@ -11,8 +11,8 @@
 - [Usage](#usage)
 - [Testing](#testing)
 - [Project Status](#project-status)
-<!-- * [Acknowledgements](#acknowledgements) -->
 - [Contact](#contact)
+<!-- * [Acknowledgements](#acknowledgements) -->
 <!-- * [License](#license) -->
 
 ## General Information
