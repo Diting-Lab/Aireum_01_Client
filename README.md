@@ -48,7 +48,9 @@ List the ready features here:
 
 - Clone this repo to your desktop.
 
-- Update Firebase. To create a new firebase project, please follow the video instructions [here](https://www.youtube.com/watch?v=6juww5Lmvgo). Update `.env` REACT_APP_FIREBASE_API_KEY. Load sample data from a dev copy by following the instruction [here](https://docs.google.com/document/d/1o7YByBRTI8xCGXIXwd3HKZ55gvsg0yFSsjSnfJJSdDI/edit?usp=sharing).
+- Update Firebase. To create a new firebase project, please follow the video instructions [here](https://www.youtube.com/watch?v=6juww5Lmvgo). Update `.env` REACT_APP_FIREBASE_API_KEY. Replace firebaseConfig with your own in the file path: `src/utils/firebase/firebaseAuth.js` line 41-49.
+
+- Load sample data from a dev copy by following the instruction [here](https://docs.google.com/document/d/1o7YByBRTI8xCGXIXwd3HKZ55gvsg0yFSsjSnfJJSdDI/edit?usp=sharing).
 
 - Update AgoliaSearch. Update `.env` the fields: `REACT_APP_ALGOLIA_APP_ID, REACT_APP_ALGOLIA_API_KEY, REACT_APP_ALGOLIA_INDEX_NAME`, with your own.
 
